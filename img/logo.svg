@@ -13,16 +13,16 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="566.94"
-   height="227.20993"
-   viewBox="0 0 566.94003 227.20994"
+   width="539.37653"
+   height="198.8566"
+   viewBox="0 0 539.37655 198.85661"
    enable-background="new 0 0 722.569 346.291"
    xml:space="preserve"
    sodipodi:docname="logo.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   inkscape:export-filename="/home/barja/Documentos/GITHUB/qgispe-web/qgispe-web/static/img/qgispe.png"
-   inkscape:export-xdpi="28"
-   inkscape:export-ydpi="28"><metadata
+   inkscape:export-filename="/home/barja/Documentos/GITHUB/qgispe-web/qgispe-web/static/img/qgispe-small.png"
+   inkscape:export-xdpi="20"
+   inkscape:export-ydpi="20"><metadata
    id="metadata834"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -49,8 +49,8 @@
    inkscape:measure-end="0,0"
    inkscape:pagecheckerboard="true"
    inkscape:zoom="1.1364974"
-   inkscape:cx="264.26181"
-   inkscape:cy="96.115729"
+   inkscape:cx="240.50461"
+   inkscape:cy="124.27242"
    inkscape:window-x="0"
    inkscape:window-y="27"
    inkscape:window-maximized="1"
@@ -58,9 +58,9 @@
 <g
    id="g827"
    style="fill:#ffffff;fill-opacity:1"
-   transform="translate(-78.569564,-57.299491)">
+   transform="translate(-92.647903,-75.973968)">
 	<polygon
-   points="195,202.37 195,180 216.513,180 198.306,162 176,162 176,183.433 "
+   points="216.513,180 198.306,162 176,162 176,183.433 195,202.37 195,180 "
    id="polygon815"
    style="fill:#808000;fill-opacity:1" />
 	<path
@@ -101,5 +101,6 @@
      x="304.11603"
      y="9.5232525"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;stroke:#ffffff;stroke-width:1.31305218;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PE</tspan></text>
+
 </g>
 </svg>
