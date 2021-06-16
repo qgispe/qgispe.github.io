@@ -2919,7 +2919,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .navbar-brand {
   float: left;
-  padding: 10px 15px;
+  padding: 15px 0px 0px 0px;
   font-size: 18px;
   line-height: 20px;
   height: 62px;
