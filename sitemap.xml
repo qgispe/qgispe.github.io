@@ -71,9 +71,13 @@
   </url><url>
     <loc>/contactos/</loc>
   </url><url>
+    <loc>/cursos/</loc>
+  </url><url>
     <loc>/eventos/</loc>
   </url><url>
     <loc>/asociacion/asociacion/</loc>
+  </url><url>
+    <loc>/cursos/cursos/</loc>
   </url><url>
     <loc>/eventos/eventos/</loc>
   </url><url>
