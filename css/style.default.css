@@ -51,9 +51,9 @@
 /* general styles */
 a,
 button {
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
+  -webkit-transition: all 0.15s ease-out;
+  -moz-transition: all 0.15s ease-out;
+  transition: all 0.15s ease-out;
 }
 a i[class^="fa"],
 button i[class^="fa"] {
